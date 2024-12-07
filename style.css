@@ -82,3 +82,9 @@ p {
     bottom: 0;
     color: hsl(0, 0%, 100%);
 }
+
+@media (max-width: 375px) {
+    .main-page {
+        width: 300px;
+    }
+}
